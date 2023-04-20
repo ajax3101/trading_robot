@@ -1,1 +1,1 @@
-# trading_robot
+# trading robot for Binance
